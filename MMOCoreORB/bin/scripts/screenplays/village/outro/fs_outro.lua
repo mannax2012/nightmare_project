@@ -8,7 +8,7 @@ FsOutro = ScreenPlay:new {
 	FORCESHRINE = 4,
 
 	stepDelay = {
-		[1] = { 15600, 86400 }, -- Old man visit, 1 hour to 1 day
+		[1] = { 2700, 3600 }, -- Old man visit, CHANGED TO 45 min to 1 hr
 	}
 }
 
@@ -144,6 +144,6 @@ function FsOutro:completeVillageOutroFrog(pPlayer)
 	QuestManager.completeQuest(pPlayer, QuestManager.quests.FS_THEATER_FINAL)
 
 	VillageJediManagerCommon.setJediProgressionScreenPlayState(pPlayer, VILLAGE_JEDI_PROGRESSION_DEFEATED_MELLIACHAE)
-
+	
 	PadawanTrials:doPadawanTrialsSetup(pPlayer)
 end
