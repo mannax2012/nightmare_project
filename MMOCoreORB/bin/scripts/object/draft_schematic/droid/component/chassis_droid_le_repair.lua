@@ -52,7 +52,7 @@ object_draft_schematic_droid_component_chassis_droid_le_repair = object_draft_sc
 	size = 6,
 	factoryCrateSize = 5,
 	factoryCrateType = "object/factory/factory_crate_electronics.iff",
-
+	factoryCrateSize = 1000,
 	xpType = "crafting_droid_general",
 	xp = 40,
 

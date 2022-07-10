@@ -66,7 +66,7 @@ winnerBonus = 0
 loserBonus = -30
 
 -- Spawn turrets and minefields when base is placed 1=true 0=false
-spawnDefenses = 1
+spawnDefenses = 0
 
 -- Amount of time to delay vulnerability in seconds afer placing base
 initialVulnerabilityDelay = 0
