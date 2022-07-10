@@ -56,16 +56,16 @@ ExperienceConverter = ScreenPlay:new {
 			{ "jedi_general", 2 }
 		},
 		crafting = {
-			{ "crafting_bio_engineer_creature", 4 },
-			{ "crafting_clothing_armor", 5 },
-			{ "crafting_clothing_general", 5 },
-			{ "crafting_droid_general", 5 },
-			{ "crafting_food_general", 5 },
-			{ "crafting_general", 8 },
-			{ "crafting_medicine_general", 5 },
-			{ "crafting_spice", 5 },
-			{ "crafting_structure_general", 35 },
-			{ "crafting_weapons_general", 5 }
+			{ "crafting_bio_engineer_creature", 2 },
+			{ "crafting_clothing_armor", 1 },
+			{ "crafting_clothing_general", 1 },
+			{ "crafting_droid_general", 1 },
+			{ "crafting_food_general", 1 },
+			{ "crafting_general", 2 },
+			{ "crafting_medicine_general", 1 },
+			{ "crafting_spice", 1 },
+			{ "crafting_structure_general", 10 },
+			{ "crafting_weapons_general", 1 }
 			{ "jedi_general", 2 }
 		}
 	}
