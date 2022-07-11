@@ -21,7 +21,7 @@ ExperienceConverter = ScreenPlay:new {
 			{ "combat_rangedspecialize_heavy", 20 },
 			{ "combat_rangedspecialize_pistol", 20 },
 			{ "combat_rangedspecialize_rifle", 20 },
-			{ "squadleader", 20 }
+			{ "squadleader", 20 },
 			{ "jedi_general", 2 }
 		},
 		senses = {
@@ -52,7 +52,7 @@ ExperienceConverter = ScreenPlay:new {
 			{ "combat_rangedspecialize_heavy", 20 },
 			{ "combat_rangedspecialize_pistol", 20 },
 			{ "combat_rangedspecialize_rifle", 20 },
-			{ "squadleader", 20 }
+			{ "squadleader", 20 },
 			{ "jedi_general", 2 }
 		},
 		crafting = {
@@ -65,7 +65,7 @@ ExperienceConverter = ScreenPlay:new {
 			{ "crafting_medicine_general", 1 },
 			{ "crafting_spice", 1 },
 			{ "crafting_structure_general", 10 },
-			{ "crafting_weapons_general", 1 }
+			{ "crafting_weapons_general", 1 },
 			{ "jedi_general", 2 }
 		}
 	}
