@@ -6,7 +6,7 @@ hk47_droid_chassis = {
 	customObjectName = "",
 	directObjectTemplate = "object/tangible/component/droid/hk47_droid_chassis.iff",
 	craftingValues = {
-		{"useCount",3,7,0}
+		{"useCount",3,6,0}
 	},
 	customizationStringName = {},
 	customizationValues = {}

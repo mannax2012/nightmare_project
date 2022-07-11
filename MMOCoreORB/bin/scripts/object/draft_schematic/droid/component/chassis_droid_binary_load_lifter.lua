@@ -50,9 +50,8 @@ object_draft_schematic_droid_component_chassis_droid_binary_load_lifter = object
 	craftingToolTab = 32, -- (See DraftSchematicObjectTemplate.h)
 	complexity = 30,
 	size = 1,
-	factoryCrateSize = 1,
+	factoryCrateSize = 1000,
 	factoryCrateType = "object/factory/factory_crate_electronics.iff",
-
 	xpType = "crafting_droid_general",
 	xp = 4000,
 

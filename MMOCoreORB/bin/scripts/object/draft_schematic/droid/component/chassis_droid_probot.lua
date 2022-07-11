@@ -52,7 +52,7 @@ object_draft_schematic_droid_component_chassis_droid_probot = object_draft_schem
 	size = 6,
 	factoryCrateSize = 5,
 	factoryCrateType = "object/factory/factory_crate_electronics.iff",
-
+	factoryCrateSize = 1000,
 	xpType = "crafting_droid_general",
 	xp = 340,
 
