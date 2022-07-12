@@ -1,6 +1,7 @@
 Full Credit to SWGEmu and MtG Communities for current content and build.
 
 [Full Guide and info for installing the server.](https://github.com/ModTheGalaxy/mtgserver/wiki)
+## This Repo is now archived and no longer updated.
 
 
 # SWGEmu Core3 #
