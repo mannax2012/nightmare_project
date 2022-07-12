@@ -59,8 +59,8 @@ includeFile("creature/player/gotal_male.lua") --Gotal male
 includeFile("creature/player/gran_male.lua") --Gran male
 includeFile("creature/player/human_female.lua")
 includeFile("creature/player/human_male.lua")
-includeFile("creature/player/hutt_female.lua") --Hutt female
-includeFile("creature/player/hutt_male.lua") --Hutt male
+--includeFile("creature/player/hutt_female.lua") --Hutt female
+--includeFile("creature/player/hutt_male.lua") --Hutt male
 includeFile("creature/player/ishi_tib_male.lua") --Ishi Tib male
 includeFile("creature/player/ithorian_female.lua")
 includeFile("creature/player/ithorian_male.lua")
@@ -75,8 +75,8 @@ includeFile("creature/player/rodian_male.lua")
 includeFile("creature/player/smc_female.lua") --Singing Mountain Clan female
 includeFile("creature/player/sullustan_female.lua")
 includeFile("creature/player/sullustan_male.lua")
-includeFile("creature/player/talz_male.lua") --Talz male
-includeFile("creature/player/togruta_female.lua") --Togruta female
+--includeFile("creature/player/talz_male.lua") --talz male
+--includeFile("creature/player/togruta_female.lua") --Togruta female
 includeFile("creature/player/trandoshan_female.lua")
 includeFile("creature/player/trandoshan_male.lua")
 includeFile("creature/player/twilek_female.lua")

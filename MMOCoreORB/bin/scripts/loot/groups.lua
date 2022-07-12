@@ -53,6 +53,7 @@ includeFile("groups/bestine_election/bestine_election_victor_visalis_rewards.lua
 
 includeFile("groups/component_loot/chemistry_component_advanced.lua")
 includeFile("groups/component_loot/weapon_component_advanced.lua")
+includeFile("groups/component_loot/hk47_chassis.lua")
 includeFile("groups/component_loot/chemistry_component.lua")
 includeFile("groups/component_loot/weapon_component.lua")
 
@@ -81,6 +82,7 @@ includeFile("groups/creature/peko_albatross.lua")
 includeFile("groups/creature/rancor_common.lua")
 includeFile("groups/creature/sharnaff_common.lua")
 includeFile("groups/creature/voritor_lizard_common.lua")
+includeFile("groups/creature/hk47_rare.lua")
 
 -- death_watch_bunker sub-folder
 includeFile("groups/death_watch_bunker/death_watch_bunker_art.lua")

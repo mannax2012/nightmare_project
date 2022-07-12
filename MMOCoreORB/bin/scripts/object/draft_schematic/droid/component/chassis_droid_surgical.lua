@@ -52,7 +52,7 @@ object_draft_schematic_droid_component_chassis_droid_surgical = object_draft_sch
 	size = 8,
 	factoryCrateSize = 5,
 	factoryCrateType = "object/factory/factory_crate_electronics.iff",
-
+	factoryCrateSize = 1000,
 	xpType = "crafting_droid_general",
 	xp = 240,
 

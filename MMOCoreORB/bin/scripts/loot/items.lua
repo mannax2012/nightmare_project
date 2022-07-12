@@ -211,6 +211,7 @@ includeFile("items/component_loot/resilience_compound_advanced.lua")
 includeFile("items/component_loot/resilience_compound.lua")
 includeFile("items/component_loot/scope_weapon_advanced.lua")
 includeFile("items/component_loot/scope_weapon.lua")
+includeFile("items/component_loot/hk47_droid_chassis.lua") --hk47 chassis loot
 includeFile("items/component_loot/solid_delivery_shell_advanced.lua")
 includeFile("items/component_loot/solid_delivery_shell.lua")
 includeFile("items/component_loot/stock_advanced.lua")
@@ -456,6 +457,7 @@ includeFile("items/loot_kit/sculpture_structure_6.lua")
 includeFile("items/loot_kit/sculpture_structure_7.lua")
 
 --loot_schematic sub-folder
+includeFile("items/loot_schematic/hk47_droid_schematic.lua")
 includeFile("items/loot_schematic/cantina_chair_schematic.lua")
 includeFile("items/loot_schematic/carved_bowl_schematic.lua")
 includeFile("items/loot_schematic/closed_basket_schematic.lua")
@@ -479,6 +481,7 @@ includeFile("items/loot_schematic/tanned_hide_s02_schematic.lua")
 includeFile("items/loot_schematic/tatooine_tapestry_schematic.lua")
 includeFile("items/loot_schematic/technical_console_schematic_1.lua")
 includeFile("items/loot_schematic/technical_console_schematic_2.lua")
+includeFile("items/loot_schematic/droid_hk47_loot_schematic.lua")
 includeFile("items/loot_schematic/throw_pillow_schematic.lua")
 
 --npc sub-folder

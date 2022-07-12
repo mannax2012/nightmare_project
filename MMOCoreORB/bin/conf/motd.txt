@@ -1,1 +1,9 @@
 Please dont forget to hard restart your clients if the server crashed/restarted.
+
+********************************************
+Main Server Website - 
++-+-+-+-+-+-+ +-+-+-+-+-+-+ +-+-+-+-+-+-+
+         SWG Nightmare Project
++-+-+-+-+-+-+ +-+-+-+-+-+-+ +-+-+-+-+-+-+
+ Main Discord - https://discord.gg/
+********************************************
