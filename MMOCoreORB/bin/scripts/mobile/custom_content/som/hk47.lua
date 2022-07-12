@@ -28,8 +28,7 @@ hk47 = Creature:new {
 	templates = {"object/mobile/som/hk47.iff"},
 	lootGroups = {
 		{
-			groups = {},
-			lootChance = 2100000
+
 		}
 	},
 	weapons = {"pirate_weapons_light"},

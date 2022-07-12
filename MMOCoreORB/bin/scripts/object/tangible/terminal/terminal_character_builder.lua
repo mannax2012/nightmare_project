@@ -51,7 +51,7 @@
 
 object_tangible_terminal_terminal_character_builder = object_tangible_terminal_shared_terminal_character_builder:new {
 	gameObjectType = 16400,
-
+	scale = 2.5,
 	maxCondition = 0,
 
 	templateType = CHARACTERBUILDERTERMINAL,
