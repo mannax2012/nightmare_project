@@ -150,6 +150,7 @@ lootableArmorAttachmentStatMods = {
 	"bio_engineer_experimentation",
 	"creature_harvesting",
 	"medicine_use",
+	"survey"
 }
 
 lootableClothingAttachmentStatMods = {
@@ -279,6 +280,7 @@ lootableClothingAttachmentStatMods = {
 	"bio_engineer_experimentation",
 	"creature_harvesting",
 	"medicine_use",
+	"survey"
 }
 
 lootableArmorStatMods = {
@@ -402,6 +404,7 @@ lootableArmorStatMods = {
 	"bio_engineer_experimentation",
 	"creature_harvesting",
 	"medicine_use",
+	"survey"
 }
 
 lootableClothingStatMods = {
@@ -526,6 +529,7 @@ lootableClothingStatMods = {
 	"bio_engineer_experimentation",
 	"creature_harvesting",
 	"medicine_use",
+	"survey"
 }
 
 lootableOneHandedMeleeStatMods = {
