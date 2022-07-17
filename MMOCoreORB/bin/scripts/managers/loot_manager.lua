@@ -136,7 +136,7 @@ lootableArmorAttachmentStatMods = {
 	"unarmed_damage",
 	"unarmed_speed",
 	-- "volley",
-	-- "warcry"
+	-- "warcry", 
 	"flamethrower_speed",
 	"flamethrower_accuracy",
 	"force_experimentation",
